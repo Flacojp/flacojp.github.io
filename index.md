@@ -1,7 +1,6 @@
 ---
-title:FlacoJP | Tech, Security & Growth
----
 # FlacoJP | Tech, Security & Growth
+---
 
 ## What You'll Find Here
 
